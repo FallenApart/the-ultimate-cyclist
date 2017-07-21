@@ -4,7 +4,7 @@
 
 ### Easy way to try the game out:
 
-Visit [Javartari](http://javatari.org/) -> Open ROM from URL (F6) -> Paste this link:<br />
+Visit [Javatari](http://javatari.org/) -> Open ROM from URL (F6) -> Paste this link:<br />
 https://rawgit.com/FallenApart/the-ultimate-cyclist/master/TheUltimateCyclist.bin
 
 ### Details
