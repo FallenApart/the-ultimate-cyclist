@@ -2,10 +2,9 @@
 
 ##### Simple and playable Atari 2600 game
 
-### Easy way to try the game out:
+### [Try out the game!](https://fallenapart.github.io/the-ultimate-cyclist/)
 
-Visit [Javatari](http://javatari.org/) -> Open ROM from URL (F6) -> Paste this link:<br />
-https://rawgit.com/FallenApart/the-ultimate-cyclist/master/TheUltimateCyclist.bin
+
 
 ### Details
 
